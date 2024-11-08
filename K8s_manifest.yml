@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: springboot
-        image: kameswari/java_spring:8081
+        image: surapaneni335/springboot:latest
         ports:
         - containerPort: 8081
         resources:
